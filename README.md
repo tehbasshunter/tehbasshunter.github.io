@@ -1,4 +1,4 @@
-<h1>THIS IS SIMPLY SOMETHING OF MY DOING AND NOT SPONSORED BY ANKHHEART OR THE STAFF.<h1>  
+<h1>THIS IS SIMPLY SOMETHING OF MY DOING AND NOT SPONSORED BY ANKHHEART OR THE STAFF.</h1>  
   
 Any issues you have with this can be handled by contacting me on [Twitter](http://twitter.com/tehbasshunter) or Discord (@tehbasshunter#2105)  
   
