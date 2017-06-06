@@ -26,4 +26,4 @@ For the mobile page I simply removed the code for the embedded video/chat.
       
        
   
- ** If you or anyone by chance knows CSS and is willing to beautify this I would be greatly appreciative.....**
+<b>If you or anyone by chance knows CSS and is willing to beautify this I would be greatly appreciative.....</b>
