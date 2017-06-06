@@ -1,6 +1,6 @@
-# tehbasshunter.github.io  
+<h1>THIS IS SIMPLY SOMETHING OF MY DOING AND NOT SPONSORED BY ANKHHEART OR THE STAFF.<h1>  
   
-This will be the place where I host some things that I use for various things (Mainly twitch things).  
+Any issues you have with this can be handled by contacting me on [Twitter](http://twitter.com/tehbasshunter) or Discord (@tehbasshunter#2105)  
   
 There are plenty of options on where you can host this. I chose github as it's free and simple to manage. 
       
