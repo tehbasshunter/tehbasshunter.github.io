@@ -1,6 +1,5 @@
 # What is GE:H&S?
 
-
 Google Earth: Hide and Seek (or a shortened GEHS for legal reasons) is a digitalized version of Hide and Seek using Google Earth Pro.
 
 Using a combination of clues to do a process of elimination the player looks to find the hider within a specified timeframe (Initial test is for a week). The player can use various means of transportation (Planes, Trains, Cars, and Busses) to get closer to where the hider is. Clues in addition to the "estimated" length of time to get from one point to another will count against the timeframe the user has. Each clue will have an initial time cost that will increase with each sequential use (Not all clues can be used more than once due to how they are designed).
